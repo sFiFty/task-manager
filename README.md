@@ -1,1 +1,1 @@
-# task-managet
+# task-manager
